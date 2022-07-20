@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Word Memory</string>
+    <string name="add_word">Add Word</string>
+    <string name="change_word">Flip</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="edit_button">update</string>
+    <string name="remove_button">remove</string>
+    <string name="update_words_button">Update Words</string>
+    <string name="add_word_button">Add Word</string>
+    <string name="mainActiviy_firsText">Learn Language</string>
+</resources>
